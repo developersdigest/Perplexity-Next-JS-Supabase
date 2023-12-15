@@ -1,0 +1,29 @@
+{
+  "name": "nextjs14",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@phosphor-icons/react": "^2.0.13",
+    "@supabase/supabase-js": "^2.38.4",
+    "cheerio": "^1.0.0-rc.12",
+    "dotenv": "^16.3.1",
+    "langchain": "^0.0.174",
+    "next": "14.0.0",
+    "openai": "^4.14.0",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-markdown": "^9.0.0",
+    "remark-gfm": "^4.0.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10",
+    "postcss": "^8",
+    "tailwindcss": "^3"
+  }
+}
